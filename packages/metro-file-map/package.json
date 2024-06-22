@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {
     "anymatch": "^3.0.3",
-    "debug": "^2.2.0",
+    "debug": "^3.1.0",
     "fb-watchman": "^2.0.0",
     "graceful-fs": "^4.2.4",
     "invariant": "^2.2.4",
